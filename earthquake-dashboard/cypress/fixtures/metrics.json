@@ -1,0 +1,21 @@
+{
+  "total": 150,
+  "averageMagnitude": 3.42,
+  "maxMagnitude": 6.2,
+  "minMagnitude": 1.1,
+  "byAlertLevel": {
+    "none": 140,
+    "green": 7,
+    "yellow": 2,
+    "orange": 1
+  },
+  "byMagnitudeRange": {
+    "micro (<2.0)": 20,
+    "minor (2.0-3.9)": 75,
+    "light (4.0-4.9)": 35,
+    "moderate (5.0-5.9)": 15,
+    "strong (6.0-6.9)": 4,
+    "major (7.0+)": 1
+  },
+  "tsunamiWarnings": 0
+}

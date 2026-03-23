@@ -1,0 +1,41 @@
+[
+  {
+    "id": "eq1",
+    "magnitude": 4.5,
+    "place": "10km N of Test City, CA",
+    "time": 1700000000000,
+    "alert": null,
+    "tsunami": 0,
+    "coordinates": [-120.0, 37.0, 10.0],
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/eq1",
+    "title": "M 4.5 - 10km N of Test City, CA",
+    "magType": "ml",
+    "sig": 312
+  },
+  {
+    "id": "eq2",
+    "magnitude": 6.2,
+    "place": "50km W of Sample Region",
+    "time": 1699990000000,
+    "alert": "yellow",
+    "tsunami": 0,
+    "coordinates": [-119.0, 36.5, 15.0],
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/eq2",
+    "title": "M 6.2 - 50km W of Sample Region",
+    "magType": "mw",
+    "sig": 620
+  },
+  {
+    "id": "eq3",
+    "magnitude": 2.1,
+    "place": "5km S of Small Town",
+    "time": 1699980000000,
+    "alert": null,
+    "tsunami": 0,
+    "coordinates": [-121.0, 38.0, 5.0],
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/eq3",
+    "title": "M 2.1 - 5km S of Small Town",
+    "magType": "ml",
+    "sig": 68
+  }
+]
