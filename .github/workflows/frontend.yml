@@ -131,5 +131,5 @@ jobs:
         with:
           app-name: 'earthquake-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F9109309DBA04662BF0BBC429492B56D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FRONTEND }}
           package: .
